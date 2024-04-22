@@ -7,7 +7,7 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
+    title: "Portfolio Website",
     description: "Project 1 description",
     image: "/images/projects/14.png",
     tag: ["All", "Web"],
@@ -21,7 +21,7 @@ const projectsData = [
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Aman8845",
-    previewUrl: "/",
+    previewUrl: "https://admin-dashboard-yt8h.vercel.app/",
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Aman8845",
-    previewUrl: "/",
+    previewUrl: "https://agency-gamma-bay.vercel.app/",
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const projectsData = [
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/Aman8845",
-    previewUrl: "/",
+    previewUrl: "https://social-kappa-navy.vercel.app/",
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const projectsData = [
     image: "/images/projects/5.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Aman8845",
-    previewUrl: "/",
+    previewUrl: "https://resume-maker-six-ecru.vercel.app/",
   },
 ];
 
