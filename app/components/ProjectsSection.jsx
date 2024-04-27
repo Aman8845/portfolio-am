@@ -50,6 +50,15 @@ const projectsData = [
     gitUrl: "https://github.com/Aman8845",
     previewUrl: "https://resume-maker-six-ecru.vercel.app/",
   },
+  {
+    id: 5,
+    title: "Brainwave Ai",
+    description: "Project 6 description",
+    image: "/images/projects/picture16.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/Aman8845",
+    previewUrl: "https://brainwave-ai-five.vercel.app/",
+  },
 ];
 
 const ProjectsSection = () => {
